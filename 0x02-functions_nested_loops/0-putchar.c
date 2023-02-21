@@ -1,5 +1,10 @@
 #include <main.h>
-#include <stdio.h>
+/**
+ * include header file
+ * declare variables
+ * used while loop to iterate the variable
+ *
+ */
 
 int main(void)
 {
