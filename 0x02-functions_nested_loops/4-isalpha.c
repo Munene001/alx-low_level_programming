@@ -10,5 +10,6 @@ int _isalpha(int c)
 	{
 		return (o);
 	}
+	return(0);
 }
 
