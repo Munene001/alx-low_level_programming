@@ -1,11 +1,11 @@
-#include <stdio.h>
 #include "main.h"
+#include<stdio.h>
 /**
- * include header file
- * declare variables
- * used while loop to iterate the variable
- *
- */
+ * 0-putchar.c - prints the string "_putchar" to stdout
+ * main - Entry point, prints the string "_putchar" to stdout
+ * 
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {
@@ -14,9 +14,10 @@ int main(void)
 
 	while (str[i] != '\0')
 	{
-		putchar(str[i]);
+		putchar (str[i]);
 		i++;
 	}
+
 	return (0);
 }
 
