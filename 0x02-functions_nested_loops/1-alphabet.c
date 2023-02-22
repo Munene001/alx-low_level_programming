@@ -4,9 +4,13 @@
 
 	/**
 	 * main - check the code
-	 * print_alphabet - print all alphabet in lowercase
+	 * print_alphabet - print all alphabet in lowercases
+	 *
+	 * Description: This function prints the lowercase alphabet, from 'a' to 'z',
 	 * Return: Always 0.
 	 */
+
+
 
 
 	void print_alphabet(void)
