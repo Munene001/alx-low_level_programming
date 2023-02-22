@@ -1,8 +1,8 @@
 #include "main.h"
-#include<stdio.h>
+#include<unistd.h>
 /**
  * 0-putchar.c - prints the string "_putchar" to stdout
- * main - Entry point, prints the string "_putchar" to stdout 
+ * main - Entry point, prints the string "_putchar" to stdout
  * Return: Always 0 (Success)
 */
 
