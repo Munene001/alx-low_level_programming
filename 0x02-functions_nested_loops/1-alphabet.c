@@ -2,7 +2,9 @@
 
 
 	/**
+	 * main - check the code
 	 * print_alphabet - print all alphabet in lowercase
+	 * Return: Always 0.
 	 */
 
 
