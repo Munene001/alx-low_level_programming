@@ -1,5 +1,5 @@
-#include<stdio.h>
 #include "main.h"
+#include<unistd.h>
 
 
 /**
@@ -18,8 +18,9 @@ void print_alphabet(void)
 
 
 	for (letter = 'a'; letter <= 'z'; letter++)
+	{
 		_putchar(letter);
-
+	}
 
 		_putchar('\n');
 }
