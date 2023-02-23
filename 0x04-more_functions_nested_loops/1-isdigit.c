@@ -5,7 +5,7 @@
  * @c: int to be checked
  * Return: 1 if c is a digit,0 0therwise
  */
-int _isdigit(intc)
+int _isdigit(int c)
 {
 	return (c >= '0'&& c <= '9');
 }
