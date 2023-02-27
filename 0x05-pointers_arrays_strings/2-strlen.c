@@ -3,7 +3,7 @@
 /**
  *_strlen - function that returns the length of a string.
  *@s:variable
- *return :length of string
+ *Return : length
  */
 int _strlen(char *s)
 {
