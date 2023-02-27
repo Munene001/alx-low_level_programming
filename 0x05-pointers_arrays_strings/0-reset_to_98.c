@@ -2,9 +2,9 @@
 
 
 /**
- * reset_to_98() - updates the value it points to to 98.
- *
- * Return: Always 0.
+ * reset_to_98 -  function that updates the value it points to to 98.
+ *@n: input
+ *Return: n
  */
 
 void reset_to_98(int *n)
