@@ -1,0 +1,4 @@
+tring.c:11: ERROR: trailing whitespace
+6-cap_string.c:14: ERROR: space required before the open parenthesis '('
+6-cap_string.c:18: ERROR: spaces required around that '||' (ctx:VxE)
+6-cap_string.c:19: ERROR: code indent should use tabs where possible
